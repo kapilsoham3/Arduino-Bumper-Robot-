@@ -10,5 +10,5 @@ Two bumper switches are soldered to the front of the board and connected to the 
 The car's direction, signals different LED lights to turn on. If it's moving forward, it shows a green light, when moving backwards, it shows a Red light and when turning, it shows a yellow light. 
 # Special Gimmick
 We decided to add a special gimmick to our car and decided to use a piezo electric buzzer to make a tune when the car runs into something 10 times. After hitting an object 10 times, the car stops and the car backs up, stops and plays Jojo's theme while showing a LED display using the Red, Yellow and Green lights. After the tune, the car goes back to turning right and moving forward untill it hits another obstacle. The counter is reset to 0.  
-#Conclusion
+# Conclusion
 Thank you for reading more about my Arduino Bumper Robot. It was a fun project that I really enjoyed working on. I have uploaded a video file that shows a demonstration of the Arduino Robot
