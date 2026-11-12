@@ -1,5 +1,5 @@
 # Arduino-Bumper-Robot-
-In this project, I created a bumper robot using Arduino and the motor driver IC with a friend. We decided to make it so whenever the robot bumps, it moves backwards and goes to another direction. After bumping 10 times, it plays a tune. The robot is powered by an Arduino UNO and a 9V DC battery. 
+In this project, I collaborated with a friend to create a bumper robot using Arduino and the motor driver IC with a friend. We decided to make it so whenever the robot bumps, it moves backwards and goes to another direction. After bumping 10 times, it plays a tune. The robot is powered by an Arduino UNO and a 9V DC battery. 
 # More about L293D
 L293D is an integrated circuit with 4 ground values, 4 voltage pins and 4 input and output pins. The voltage pins involve 2 voltage pins for powering the IC, and 2 enabling pins that control the speed of the motor based on the amount of voltage provided. Each input and output pin controls each motor. In my bumper robot, there were 2 sets of 4  motors and by controlling the voltage that they got, we can control the direction of the motor. 
 # How the Motors are connected
